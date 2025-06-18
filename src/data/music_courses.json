@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Blockchain Basics",
+      "slug": "blockchain-basics",
+      "description": "Understand the core concepts of blockchain technology and its applications across industries.",
+      "price": 0.00,
+      "instructor": "Pattrick Collins",
+      "isFeatured": true,
+      "image": "/courses/blockchain.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Solidity for Beginners",
+      "slug": "solidity-for-beginners",
+      "description": "Start developing smart contracts on Ethereum using Solidity with hands-on projects.",
+      "price": 129.99,
+      "instructor": "Ayesha Mehta",
+      "isFeatured": true,
+      "image": "/courses/solidity.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "DeFi Essentials",
+      "slug": "defi-essentials",
+      "description": "Learn how decentralized finance protocols like Uniswap, Aave, and Compound work.",
+      "price": 119.00,
+      "instructor": "Neeraj Gupta",
+      "isFeatured": false,
+      "image": "/courses/defi.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "NFT Development & Marketplace Setup",
+      "slug": "nft-development-marketplace",
+      "description": "Create, mint, and list NFTs using tools like OpenSea, IPFS, and Moralis.",
+      "price": 149.99,
+      "instructor": "Tanya Roy",
+      "isFeatured": true,
+      "image": "/courses/nft.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Zero-Knowledge Proofs (ZKPs)",
+      "slug": "zkp-fundamentals",
+      "description": "Explore the concepts behind zkRollups and their use in Layer 2 scaling on Ethereum.",
+      "price": 159.00,
+      "instructor": "Luis Romero",
+      "isFeatured": false,
+      "image": "/courses/zkp.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Intro to DAOs",
+      "slug": "intro-to-daos",
+      "description": "Discover how Decentralized Autonomous Organizations work and how to participate or create one.",
+      "price": 99.00,
+      "instructor": "Ritika Singh",
+      "isFeatured": true,
+      "image": "/courses/dao.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Full-Stack DApp Development",
+      "slug": "fullstack-dapp",
+      "description": "Build decentralized applications using Solidity, React.js, Hardhat, and Ethers.js.",
+      "price": 199.99,
+      "instructor": "Harsh Vardhan",
+      "isFeatured": true,
+      "image": "/courses/dapp.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Web3 Career Bootcamp",
+      "slug": "web3-career-bootcamp",
+      "description": "Learn how to break into Web3, build a portfolio, contribute to open-source, and land jobs.",
+      "price": 89.99,
+      "instructor": "Harkirat Singh",
+      "isFeatured": false,
+      "image": "/courses/career.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Ethereum & EVM Deep Dive",
+      "slug": "ethereum-evm-deep-dive",
+      "description": "Understand Ethereum architecture, the EVM, gas, and transaction lifecycle.",
+      "price": 139.00,
+      "instructor": "Mohit Sharma",
+      "isFeatured": false,
+      "image": "/courses/evm.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Smart Contract Security",
+      "slug": "smart-contract-security",
+      "description": "Master security vulnerabilities like reentrancy, overflow, and how to audit smart contracts.",
+      "price": 189.99,
+      "instructor": "Ankush Kulkarni",
+      "isFeatured": true,
+      "image": "/courses/security.jpeg"
+    }
+  ]
+}
