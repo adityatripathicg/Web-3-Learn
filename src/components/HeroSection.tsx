@@ -17,7 +17,7 @@ function HeroSection() {
             >Master the Future of Web3</h1>
             <p
             className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto"
-            >Explore a curated path of Web3 courses to unlock your potential in blockchain, smart contracts, DeFi, NFTs, and beyond. Whether you're just starting out or leveling up, your Web3 journey starts here.
+            >Explore a curated path of Web3 courses to unlock your potential in blockchain, smart contracts, DeFi, NFTs, and beyond. Whether youre just starting out or leveling up, your Web3 journey starts here.
 
 .</p>
             <div className="mt-4">
